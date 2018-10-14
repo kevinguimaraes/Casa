@@ -62,7 +62,7 @@ public class TelaChat extends javax.swing.JFrame {
 	 * Create the application.
 	 */
 	public TelaChat() {
-		initialize();
+		initialize(); 
 	}
 
 	/**
